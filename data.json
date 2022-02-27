@@ -1,0 +1,9 @@
+{
+  "columnId": ["toDo", "inProgress", "done"],
+  "backgroundColor": [
+    "rgb(86, 178, 229)",
+    "rgb(232, 107, 121)",
+    "rgb(76, 94, 116)"
+  ],
+  "items": ["coffee", "tea", "coke", "juice", "beer", "wine"]
+}
